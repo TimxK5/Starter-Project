@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - GameController
+    - SelfDestroyScript
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.Tilemap.Editor.dll:
@@ -59,9 +60,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13120}
     - Class: 114
-      Script: {instanceID: 14394}
+      Script: {instanceID: 14404}
     - Class: 114
-      Script: {instanceID: 15028}
+      Script: {instanceID: 15038}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -381,6 +382,12 @@ ScriptsOnlyBuild:
     className: VerticalLayoutGroup
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SelfDestroyScript
+  - hash:
+      serializedVersion: 2
       Hash: 71b711096c6c32621c1d4c02310898b7
     assemblyName: Unity.2D.Animation.Runtime.dll
     namespaceName: UnityEngine.U2D.Animation
@@ -571,12 +578,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: SelfDestroyScript
   platform: 19
   scenePathNames:
   - Assets/Scenes/Scene.unity
