@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 6a54d6566d881b1459003a447e2bfe18
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Img1: {instanceID: 0}
+  - Img2: {instanceID: 0}
+  - Img3: {instanceID: 0}
+  - Img4: {instanceID: 0}
+  - Img5: {instanceID: 0}
+  - Img6: {instanceID: 0}
+  - Img7: {instanceID: 0}
+  - Img8: {instanceID: 0}
+  - Img9: {instanceID: 0}
+  - Img10: {instanceID: 0}
+  - Wicon: {fileID: 21300000, guid: 9e259dadfd144644aa9beff6e40ad361, type: 3}
+  - Aicon: {fileID: 21300000, guid: 3b65b042e1b28734b8cf52ecc9ad310e, type: 3}
+  - Sicon: {fileID: 21300000, guid: 36e07b4ec5cf4ed42ad8e36e66df5d6e, type: 3}
+  - Dicon: {fileID: 21300000, guid: 849039808aabad64eaae806f3dced16c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
